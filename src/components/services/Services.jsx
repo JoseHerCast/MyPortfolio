@@ -17,85 +17,77 @@ const Services = () => {
                     <ul className='service_list'>
                         <li>
                             <BsCheck className='service_list-icon'></BsCheck>
-                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                            <p>Interfaces amigables e intuitivas con el usuario.</p>
                         </li>
                         <li>
                             <BsCheck className='service_list-icon'></BsCheck>
-                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                            <p>Productos atractivamente visuales.</p>
                         </li>
                         <li>
                             <BsCheck className='service_list-icon'></BsCheck>
-                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                            <p>Experiencias únicas relacionadas con tu marca</p>
                         </li>
                         <li>
                             <BsCheck className='service_list-icon'></BsCheck>
-                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                            <p>Funcionalidades inmersivas y de realidad virtual</p>
                         </li>
                         <li>
                             <BsCheck className='service_list-icon'></BsCheck>
-                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                            <p>Diseño responsivo</p>
                         </li>
                     </ul>
                 </article>
                 {/* TERMINA UX/UI */}
                 <article className='service'>
                     <div className='service_head'>
-                        <h3>Diseño UX/UI</h3>
+                        <h3>Desarrollo Web</h3>
                     </div>
 
                     <ul className='service_list'>
                         <li>
                             <BsCheck className='service_list-icon'></BsCheck>
-                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                            <p>Páginas web estáticas y dinamicas</p>
                         </li>
                         <li>
                             <BsCheck className='service_list-icon'></BsCheck>
-                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                            <p>WebApps</p>
                         </li>
                         <li>
                             <BsCheck className='service_list-icon'></BsCheck>
-                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                            <p>Frontend y Backend con manejo de frameworks</p>
                         </li>
                         <li>
                             <BsCheck className='service_list-icon'></BsCheck>
-                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-                        </li>
-                        <li>
-                            <BsCheck className='service_list-icon'></BsCheck>
-                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                            <p>Desarrollo contínuo (CI/CD)</p>
                         </li>
                     </ul>
                 </article>
                 {/* TERMINA WEB */}
                 <article className='service'>
                     <div className='service_head'>
-                        <h3>Diseño UX/UI</h3>
+                        <h3>Desarrollo Móvil</h3>
                     </div>
 
                     <ul className='service_list'>
                         <li>
                             <BsCheck className='service_list-icon'></BsCheck>
-                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                            <p>Desarrollo multiplataforma</p>
                         </li>
                         <li>
                             <BsCheck className='service_list-icon'></BsCheck>
-                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                            <p>Servicios en tiempo real</p>
                         </li>
                         <li>
                             <BsCheck className='service_list-icon'></BsCheck>
-                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                            <p>Integración con WebApps e interfaces externas</p>
                         </li>
                         <li>
                             <BsCheck className='service_list-icon'></BsCheck>
-                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-                        </li>
-                        <li>
-                            <BsCheck className='service_list-icon'></BsCheck>
-                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                            <p>Gamificación</p>
                         </li>
                     </ul>
                 </article>
-                {/* TERMINA CREACIÓN DE CONTENIDO */}
+                {/* TERMINA DESARROLLO MÓVIL */}
             </div>
         </section>
     )
