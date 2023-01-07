@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/MyPortfolio/static/css/main.b212966d.css",
+    "main.js": "/MyPortfolio/static/js/main.b187e22c.js",
+    "static/media/TPS.png": "/MyPortfolio/static/media/TPS.2215e15f8b34f29d72db.png",
+    "static/media/me_about.png": "/MyPortfolio/static/media/me_about.2657a4957dbcd1d2d655.png",
+    "static/media/LastTry.png": "/MyPortfolio/static/media/LastTry.a347e68c36bf611cdd03.png",
+    "static/media/me.png": "/MyPortfolio/static/media/me.d3f010c674484ca80f1e.png",
+    "static/media/Zgym.png": "/MyPortfolio/static/media/Zgym.8b130d15733c8ffcf68f.png",
+    "static/media/Adventure.png": "/MyPortfolio/static/media/Adventure.9d70c90483e7871939d7.png",
+    "static/media/pilomex.png": "/MyPortfolio/static/media/pilomex.a1abc7ede04b42df6ab0.png",
+    "static/media/Q.png": "/MyPortfolio/static/media/Q.cacac54ff33b30ae1eaf.png",
+    "static/media/Batatabit.png": "/MyPortfolio/static/media/Batatabit.eb1cc05d05eb88ff08da.png",
+    "static/media/doggies.png": "/MyPortfolio/static/media/doggies.a155fa40bc207a1455c6.png",
+    "static/media/chilango.png": "/MyPortfolio/static/media/chilango.74f0814a992185f4d28c.png",
+    "static/media/ts.png": "/MyPortfolio/static/media/ts.683a8495d7350fc5127e.png",
+    "static/media/CV.pdf": "/MyPortfolio/static/media/CV.852502f19b7e1962b738.pdf",
+    "static/media/google clone.png": "/MyPortfolio/static/media/google clone.e69dff3c946381d70d37.png",
+    "index.html": "/MyPortfolio/index.html",
+    "main.b212966d.css.map": "/MyPortfolio/static/css/main.b212966d.css.map",
+    "main.b187e22c.js.map": "/MyPortfolio/static/js/main.b187e22c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b212966d.css",
+    "static/js/main.b187e22c.js"
+  ]
+}
