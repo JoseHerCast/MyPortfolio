@@ -9,7 +9,7 @@ const Experience = () => {
             <h2>Experiencia</h2>
             <div className="container experience_container">
                 <div className="experience_web">
-                    <h3>Desarrollo Web</h3>
+                    <h3>Desarrollo Front-end</h3>
                     <div className="experience_content">
                         <article className='experience_details'>
                             <BsPatchCheckFill className="experience_details-icon"></BsPatchCheckFill>
@@ -56,6 +56,13 @@ const Experience = () => {
                         <article className='experience_details'>
                             <BsPatchCheckFill className="experience_details-icon"></BsPatchCheckFill>
                             <div>
+                                <h4>Materialize</h4>
+                                <small className='text-light'>Intermedio</small>
+                            </div>
+                        </article>
+                        <article className='experience_details'>
+                            <BsPatchCheckFill className="experience_details-icon"></BsPatchCheckFill>
+                            <div>
                                 <h4>AngularJS</h4>
                                 <small className='text-light'>Experimentado</small>
                             </div>
@@ -71,6 +78,53 @@ const Experience = () => {
                             <BsPatchCheckFill className="experience_details-icon"></BsPatchCheckFill>
                             <div>
                                 <h4>PlayCanvas y JS (VR)</h4>
+                                <small className='text-light'>Intermedio</small>
+                            </div>
+                        </article>
+                    </div>
+                </div>
+                <div className="experience_backend">
+                    <h3>Desarrollo Back-end</h3>
+                    <div className="experience_content">
+                        <article className='experience_details'>
+                            <BsPatchCheckFill className="experience_details-icon"></BsPatchCheckFill>
+                            <div>
+                                <h4>Python (Django)</h4>
+                                <small className='text-light'>Intermedio</small>
+                            </div>
+                        </article>
+                        <article className='experience_details'>
+                            <BsPatchCheckFill className="experience_details-icon"></BsPatchCheckFill>
+                            <div>
+                                <h4>NodeJS</h4>
+                                <small className='text-light'>Intermedio</small>
+                            </div>
+                        </article>
+                        <article className='experience_details'>
+                            <BsPatchCheckFill className="experience_details-icon"></BsPatchCheckFill>
+                            <div>
+                                <h4>GCP</h4>
+                                <small className='text-light'>Experimentado</small>
+                            </div>
+                        </article>
+                        <article className='experience_details'>
+                            <BsPatchCheckFill className="experience_details-icon"></BsPatchCheckFill>
+                            <div>
+                                <h4>PostgreSQL</h4>
+                                <small className='text-light'>Básico</small>
+                            </div>
+                        </article>
+                        <article className='experience_details'>
+                            <BsPatchCheckFill className="experience_details-icon"></BsPatchCheckFill>
+                            <div>
+                                <h4>MySQL</h4>
+                                <small className='text-light'>Básico</small>
+                            </div>
+                        </article>
+                        <article className='experience_details'>
+                            <BsPatchCheckFill className="experience_details-icon"></BsPatchCheckFill>
+                            <div>
+                                <h4>Chatbots (RASA, DialogFlow, etc.)</h4>
                                 <small className='text-light'>Intermedio</small>
                             </div>
                         </article>
@@ -107,13 +161,6 @@ const Experience = () => {
                                 <small className='text-light'>Experimentado</small>
                             </div>
                         </article>
-                        <article className='experience_details'>
-                            <BsPatchCheckFill className="experience_details-icon"></BsPatchCheckFill>
-                            <div>
-                                <h4>Materialize</h4>
-                                <small className='text-light'>Intermedio</small>
-                            </div>
-                        </article>
                     </div>
                 </div>
                 <div className="experience_desktop">
@@ -144,46 +191,6 @@ const Experience = () => {
                             <BsPatchCheckFill className="experience_details-icon"></BsPatchCheckFill>
                             <div>
                                 <h4>C# y Unity (VR)</h4>
-                                <small className='text-light'>Intermedio</small>
-                            </div>
-                        </article>
-                    </div>
-                </div>
-                <div className="experience_backend">
-                    <h3>Desarrollo Backend</h3>
-                    <div className="experience_content">
-                        <article className='experience_details'>
-                            <BsPatchCheckFill className="experience_details-icon"></BsPatchCheckFill>
-                            <div>
-                                <h4>Python</h4>
-                                <small className='text-light'>Intermedio</small>
-                            </div>
-                        </article>
-                        <article className='experience_details'>
-                            <BsPatchCheckFill className="experience_details-icon"></BsPatchCheckFill>
-                            <div>
-                                <h4>GCP</h4>
-                                <small className='text-light'>Experimentado</small>
-                            </div>
-                        </article>
-                        <article className='experience_details'>
-                            <BsPatchCheckFill className="experience_details-icon"></BsPatchCheckFill>
-                            <div>
-                                <h4>GraphQL</h4>
-                                <small className='text-light'>Básico</small>
-                            </div>
-                        </article>
-                        <article className='experience_details'>
-                            <BsPatchCheckFill className="experience_details-icon"></BsPatchCheckFill>
-                            <div>
-                                <h4>MySQL</h4>
-                                <small className='text-light'>Básico</small>
-                            </div>
-                        </article>
-                        <article className='experience_details'>
-                            <BsPatchCheckFill className="experience_details-icon"></BsPatchCheckFill>
-                            <div>
-                                <h4>RASA (ChatBots)</h4>
                                 <small className='text-light'>Intermedio</small>
                             </div>
                         </article>
